@@ -8,7 +8,6 @@ package com.controlador;
 import com.negocio.Dispatcher;
 import utilitarios.Constantes;
 import java.util.stream.IntStream;
-
 /**
  *
  * @author leonardofabiancortesvasquez

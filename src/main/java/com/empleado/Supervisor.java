@@ -6,7 +6,6 @@
 package com.empleado;
 
 import utilitarios.Constantes;
-
 /**
  *
  * @author leonardofabiancortesvasquez

@@ -6,7 +6,6 @@
 package com.empleado;
 
 import java.util.Random;
-
 /**
  *
  * @author leonardofabiancortesvasquez
