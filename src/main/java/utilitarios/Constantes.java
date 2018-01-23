@@ -11,9 +11,9 @@ package utilitarios;
 public class Constantes {
 
     public static final Integer DIRECTOR = 1;
-    public static final Integer OPERADOR = 5;
-    public static final Integer SUPERVISOR = 4;
-    public static final Integer LLAMADAS = 10;
+    public static final Integer OPERADOR = 2;
+    public static final Integer SUPERVISOR = 2;
+    public static final Integer LLAMADAS = 6;
     public static final String LLAMADA_ATENDIDA = " Llamada ";
     public static final String CONTESTADA_DIRECTOR = " contestada por un director ";
     public static final String CONTESTADA_OPERADOR = " contestada por un operador ";
