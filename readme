@@ -1,0 +1,10 @@
+
+
+La solución contine las fuentes del ejercicio de call center, el test y el diagrama de clases.
+
+El diagrama se encuentra en la ruta: /CallCenter/src/main/resources/CallCenterUML/Class Diagrams/DiagramaDeClasesCallCenter.png
+
+El ejecricio se ejecuta en la clase Principal.java
+Se desarrolló utilizando conceptos de herencia que se visualizan en el paquete empleado, patron singleton e hilos. 
+En el paquete negocio, se encuentra el dispatcher que utiliza un singleton para asegurar la instancia de las llamadas.
+En la clase se Constantes.java se pueden observar los datos de entrada de llamadas y cada actor del Call Center.
